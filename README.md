@@ -182,16 +182,9 @@ A purposeful project at the intersection of technology and social good — build
 
 ---
 
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/bhakti831/bhakti831/blob/output/github-contribution-grid-snake.svg)
-
-> **Setup:** Add a GitHub Actions workflow to auto-generate the snake. [Guide here →](https://github.com/Platane/snk)
+![](https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake.svg)
 
 ---
 
