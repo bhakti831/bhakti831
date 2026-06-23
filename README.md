@@ -1,16 +1,15 @@
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=bhakti831&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%7C%20Web%20Engineer&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;TypeScript+%7C+React+%7C+Next.js+Engineer;Building+Scalable+Web+Applications;Open+Source+Contributor;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;TypeScript+%7C+React+%7C+Next.js+Engineer;Building+Scalable+Web+AI+Applications;Open+Source+Contributor;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA-Computer%20Applications-7C3AED?style=flat-square&logo=academia&logoColor=white"/>
-  &nbsp;
+  <img src="https://img.shields.io/badge/BTech-CSE%20(AI)-7C3AED?style=flat-square&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/India-Uttar%20Pradesh-6D28D9?style=flat-square&logo=google-maps&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Projects-8B5CF6?style=flat-square&logo=briefcase&logoColor=white"/>
@@ -32,11 +31,11 @@
 
 ```typescript
 const bhakti = {
-  role        : "Full Stack Web Developer",
+  role        : "Artificial Intelligence Developer",
   location    : "Uttar Pradesh, India",
-  education   : "Bachelor of Computer Applications (BCA)",
-  languages   : ["TypeScript", "JavaScript", "HTML", "CSS"],
-  interests   : ["Web Engineering", "UI/UX", "Open Source", "Product Development"],
+  education   : "Bachelor of Technology(Computer Science-AI)",
+  languages   : ["Java", "JavaScript", "C++", "SQL","Python"],
+  interests   : ["Artificial Intelligence", "Machine learning", "Open Source", "Product Development"],
   currentFocus: "Building production-grade web applications with modern tooling",
   openTo      : ["Internships", "Collaborative Projects", "Open Source Contributions"],
 };
@@ -164,16 +163,6 @@ A purposeful project at the intersection of technology and social good — build
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhakti831&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
 </p>
 
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhakti831&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" width="100%"/>
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
@@ -182,9 +171,13 @@ A purposeful project at the intersection of technology and social good — build
 
 ---
 
-## 🐍 Contribution Snake
+## ◈ Contribution Snake
 
-![](https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+> **Setup:** Add a GitHub Actions workflow to auto-generate the snake. [Guide here →](https://github.com/Platane/snk)
 
 ---
 
@@ -235,77 +228,4 @@ open_to:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</p> -->
-<h1 align="center">Hi 👋, I'm Bhakti Agrawal</h1>
-
-<h3 align="center">Computer Science Student | DSA Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  <a href="https://github.com/bhakti831">
-    <img src="https://komarev.com/ghpvc/?username=bhakti831&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
 </p>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Science Student
-- 💡 Interested in Software Development and Problem Solving
-- 🌱 Currently learning Data Structures & Algorithms
-- 🚀 Exploring Web Development and Open Source
-- 📫 Reach me through GitHub
-
----
-
-## 🛠️ Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhakti831&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhakti831&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhakti831&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhakti831&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhakti831&theme=tokyo-night" />
-</p>
-
----
-
-⭐️ From [bhakti831](https://github.com/bhakti831)
