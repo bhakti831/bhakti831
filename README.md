@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=bhakti831&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20TypeScript%20%7C%20Web%20Engineer&descAlignY=55&descSize=16" width="100%"/>
 </p>
 
@@ -235,4 +235,77 @@ open_to:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+</p> -->
+<h1 align="center">Hi 👋, I'm Bhakti Agrawal</h1>
+
+<h3 align="center">Computer Science Student | DSA Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://github.com/bhakti831">
+    <img src="https://komarev.com/ghpvc/?username=bhakti831&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💡 Interested in Software Development and Problem Solving
+- 🌱 Currently learning Data Structures & Algorithms
+- 🚀 Exploring Web Development and Open Source
+- 📫 Reach me through GitHub
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhakti831&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhakti831&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhakti831&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhakti831&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhakti831/bhakti831/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhakti831&theme=tokyo-night" />
+</p>
+
+---
+
+⭐️ From [bhakti831](https://github.com/bhakti831)
